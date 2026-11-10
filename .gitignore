@@ -4,4 +4,4 @@ __pycache__/
 .idea/
 .streamlit/secrets.toml
 .env
-   data/
+data/
